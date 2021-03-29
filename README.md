@@ -6,3 +6,5 @@ For this project we created our own ERD to show the relationships between our mo
 To build out the back-end we create database migratations using knex and build RESTful API routes that return data in a JSON format.
 
 ERD: ![ERD](ERD.PNG)
+
+To run the program: install node 
